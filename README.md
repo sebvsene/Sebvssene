@@ -9,8 +9,7 @@
     </td>
     <td width="50%">
       <h2>$\color{#362C54}{\textsf{Jason}}$ $\color{#834E74}{\textsf{Todd}}$ $\color{#C4C3B1}{\textsf{if}}$ $\color{#A75C81}{\textsf{he}}$ $\color{#583D64}{\textsf{was}}$ $\color{#D8D7DA}{\textsf{real!}}$
-      <p>Prime's husb!</p>
-      <p>links>></p>
+      <p><h2>$\color{#362C54}{\textsf{Prime’s}}$ $\color{#834E74}{\textsf{husb!}}$</p>
     </td>
   </tr>
 </table>

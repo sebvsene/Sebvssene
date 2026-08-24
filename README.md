@@ -8,7 +8,7 @@
       <img width="250" height="200" alt="Untitled32_20260824095818" src="https://github.com/user-attachments/assets/bf7debe1-dfd7-4789-8e79-5eae877e5da5" />
     </td>
     <td width="50%">
-      <h2>$\color{#9087BD}{\textsf{Jason}}$ $\color{#2A3669}{\textsf{Todd}}$ $\color{#EDFFFF}{\textsf{if}}$ $\color{#9087BD}{\textsf{he}}$ $\color{#2A3669}{\textsf{was}}$ $\color{#9087BD}{\textsf{real!}}$
+      <h2>$\color{#362C54}{\textsf{Jason}}$ $\color{#834E74}{\textsf{Todd}}$ $\color{#C4C3B1}{\textsf{if}}$ $\color{#A75C81}{\textsf{he}}$ $\color{#583D64}{\textsf{was}}$ $\color{#D8D7DA}{\textsf{real!}}$
       <p>Prime's husb!</p>
       <p>links>></p>
     </td>

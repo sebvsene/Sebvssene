@@ -1,5 +1,9 @@
 <div align="center">
 <img width="" height="" alt="IMG_0666" src="https://github.com/user-attachments/assets/d9c42caa-f81d-48ad-b9a6-1ac434372c5b" />
+
+![𝘉𝘶𝘭𝘭𝘦𝘵𝘴](https://komarev.com/ghpvc/?username=sebvsene&label=𝘉𝘶𝘭𝘭𝘦𝘵𝘴%20&base=5678&color=834E74&style=flat-square)
+
+$\color{#362C54}{\textsf{Jason}}$ $\color{#834E74}{\textsf{Todd}}$ $\color{#C4C3B1}{\textsf{If}}$ $\color{#A75C81}{\textsf{He}}$ $\color{#583D64}{\textsf{Was}}$ $\color{#D8D7DA}{\textsf{Real,}}$ $\color{#C4C3B1}{\textsf{Trust.}}$
 <br>
 <br>
 <table>
@@ -8,9 +12,7 @@
       <img width="250" height="200" alt="Untitled32_20260824095818" src="https://github.com/user-attachments/assets/bf7debe1-dfd7-4789-8e79-5eae877e5da5" />
     </td>
     <td width="50%">
-      <h2>$\color{#362C54}{\textsf{Jason}}$ $\color{#834E74}{\textsf{Todd}}$ $\color{#C4C3B1}{\textsf{if}}$ $\color{#A75C81}{\textsf{he}}$ $\color{#583D64}{\textsf{was}}$ $\color{#D8D7DA}{\textsf{real!}}$
-      <p><h2>$\color{#362C54}{\textsf{Prime’s}}$ $\color{#834E74}{\textsf{husb!}}$</p>
-    </td>
+      <h2>$\color{#362C54}{\textsf{Awaw}}$ $\color{#834E74}{\textsf{Prime}}$ $\color{#C4C3B1}{\textsf{i}}$ $\color{#A75C81}{\textsf{love}}$ $\color{#583D64}{\textsf{you}}$ $\color{#D8D7DA}{\textsf{dearly.}}$
   </tr>
 </table>
 
